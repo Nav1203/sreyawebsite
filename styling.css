@@ -23,6 +23,10 @@ body{
     box-shadow: 1px 2px 2px rgb(0, 0, 0);
     border-color:aliceblue;
 }
+.tiles{
+    max-width: 80%;
+    max-height: 80%;
+}
 .shdw{
     box-shadow: 2px 2px 4px black;
     transition: 1s;
